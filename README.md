@@ -38,5 +38,25 @@ La aplicación utilizará por defecto el puerto 4200
 
 Todo esto es necesario para que pueda funcionar correctamente
 
+##  Variables de Entorno
+
+Para ejecutar este proyecto necesitaras dirijirte a archivo .env y colocar tus variables de entorno de la siguiente manera:
+
+```js
+  firebaseConfig :
+  {
+  apiKey: 'API_KEY',
+  authDomain: 'DOMINIO',
+  databaseURL: 'URL',
+  projectId: 'ID',
+  storageBucket: 'Storage',
+  messagingSenderId: 'ID_Mensaje',
+  appId: 'APP_ID',
+  measurementId: 'ID_Medida'
+  }
+```
+## apk
+
+#(https://github.com/IsmaelNovillo/UbiGoogle/blob/main/maps_tiempo_real.apk)
 
 ## Screenshots de funcionamiento del proyecto
