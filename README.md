@@ -60,6 +60,6 @@ Para ejecutar este proyecto necesitaras dirijirte a archivo .env y colocar tus v
 #(https://github.com/IsmaelNovillo/UbiGoogle/blob/main/maps_tiempo_real.apk)
 
 ## Screenshots de funcionamiento del proyecto
-![img](https://github.com/IsmaelNovillo/UbiGoogle/blob/main/assets/1.png)
+![img](https://github.com/IsmaelNovillo/UbiGoogle/blob/main/assets/5.png)
 ![img](https://github.com/IsmaelNovillo/UbiGoogle/blob/main/assets/Sin%20t%C3%ADtulo.png)
-![img](https://github.com/IsmaelNovillo/UbiGoogle/blob/main/assets/3.png)
+
